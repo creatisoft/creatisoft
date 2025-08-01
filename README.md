@@ -18,4 +18,4 @@ Below is a summary of my public repositories. Each project has a short descripti
 
 Feel free to explore my projects and reach out if you have any questions or collaboration ideas! ✨
 
-🌐 [Visit my website](https://creatisoft.com) | 🐦 [Follow on Twitter](https://twitter.com/creatisoft)
+🌐 [Visit my website](https://creatisoft.com) | 🐦 [Follow on X](https://twitter.com/creatisoft)
