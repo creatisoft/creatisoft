@@ -1,6 +1,6 @@
 # 🌟 Creatisoft GitHub Portfolio
 
-👋 Welcome! I’m **Christopher Moya**, an indie developer from Seattle, WA. Here you'll find a collection of my projects—ranging from 🎮 games to 🛠️ utilities—built for fun, learning, and sharing with the community.
+👋 Welcome! I’m **Christopher**, an indie developer from Seattle, WA. Here you'll find a collection of my projects—ranging from 🎮 games to 🛠️ utilities—built for fun, learning, and sharing with the community.
 
 ## 📖 About Me
 
